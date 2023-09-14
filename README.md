@@ -13,7 +13,7 @@
 ## Installation⚙️
 
 - pip install -r requirements.txt
-- Get Telegram Bot API and paste it [here](https://github.com/theriturajps/ThisIsNotRat/blob/2e9b6389f5b46a2b79ff6ddcd9c1fb578e2946cb/ThisIsNotRat.py#L15) 🤖
+- Get Telegram Bot API and paste it [here](https://github.com/theriturajps/ThisIsNotRat/blob/main/ThisIsNotRat.py#L15) 🤖
 - python ThisIsNotRat.py 
 
 
