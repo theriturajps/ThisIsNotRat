@@ -54,6 +54,24 @@
 
 - /shutdown  🙅
 
+```
+screen - Capture Screenshot
+sys - System Information
+ip - IP Addr
+cd - Change Folder
+ls - List Elements
+upload - To get file
+crypt - Crypt file
+decrypt - Decrypt file
+webcam - Webcam capture
+lock - Lock Session
+clipoard - Get Clipboard
+help - Commands
+shell - Pro
+wifi - Get Wi-Fi Pass
+speech - Audio on Device
+shutdown - Bye Bye
+```
 
 ## Demo:
 
